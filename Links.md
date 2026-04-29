@@ -2,6 +2,14 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-04-29 10:24 IR
+- 📱 [roundsync_v2.6.0-oss-arm64-v8a.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/roundsync_v2.6.0-oss-arm64-v8a-release.apk) `36.9MB`
+
+- 📱 [roundsync_v2.6.0-oss-armeabi-v7a.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/roundsync_v2.6.0-oss-armeabi-v7a-release.apk) `38.3MB`
+
+---
+
+
 ### 📅 2026-04-29 10:22 IR
 - 📱 [v2rayNG_2.0.18_arm64-v8a.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/v2rayNG_2.0.18_arm64-v8a.apk) `26.8MB`
 
