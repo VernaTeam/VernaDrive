@@ -2,12 +2,6 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
-### 📅 2026-05-01 01:15 IR
-- 🗜️ [file_28.zip](https://github.com/ConfigWireguard/sandbox/raw/main/dl/file_28.zip) `600KB`
-
----
-
-
 ### 📅 2026-05-01 00:57 IR
 - 🗜️ [ezytel_ConfigWireguard.zip](https://github.com/ConfigWireguard/sandbox/raw/main/dl/ezytel_ConfigWireguard.zip) `600KB`
 
