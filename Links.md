@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-01 00:57 IR
+- 🗜️ [ezytel_ConfigWireguard.zip](https://github.com/ConfigWireguard/sandbox/raw/main/dl/ezytel_ConfigWireguard.zip) `600KB`
+
+---
+
+
 ### 📅 2026-04-30 23:03 IR
 - 📱 [v2rayNG_2.1.4_arm64-v8a.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/v2rayNG_2.1.4_arm64-v8a.apk) `26.8MB`
 
