@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-01 10:12 IR
+- 🗜️ [mhrv-rs-windows-amd64.zip](https://github.com/VernaTeam/VernaDrive/raw/main/dl/mhrv-rs-windows-amd64.zip) `6.9MB`
+
+---
+
+
 ### 📅 2026-05-01 04:27 IR
 - 📱 [mhrv-rs-android-universal-v1.9.3.apk](https://github.com/Meysam4k/VernaDrive/raw/main/dl/mhrv-rs-android-universal-v1.9.3.apk) `39.0MB`
 
