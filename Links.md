@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-04 00:57 IR
+- 📱 [Happ_beta.apk](https://github.com/VernaTeam/VernaDrive/raw/main/dl/Happ_beta.apk) `55.1MB`
+
+---
+
+
 ### 📅 2026-05-03 01:19 IR
 - 🗜️ [Nova.App.V1.zip](https://github.com/VernaTeam/VernaDrive/raw/main/dl/Nova.App.V1.zip) `24.6MB`
 
