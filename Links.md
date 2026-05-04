@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-04 10:44 IR
+- 📥 [setup-Happ.x64.exe](https://github.com/VernaTeam/VernaDrive/raw/main/dl/setup-Happ.x64.exe) `89.2MB`
+
+---
+
+
 ### 📅 2026-05-04 00:57 IR
 - 📱 [Happ_beta.apk](https://github.com/VernaTeam/VernaDrive/raw/main/dl/Happ_beta.apk) `55.1MB`
 
